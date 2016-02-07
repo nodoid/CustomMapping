@@ -1,0 +1,9 @@
+CustomMapping/bin/*
+CustomMapping/obj/*
+Droid/bin/*
+Droid/obj/*
+iOS/bin/*
+iOS/obj/*
+packages/*
+
+
