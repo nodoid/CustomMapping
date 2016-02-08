@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="iOS/CustomMapping.iOS.csproj">
+﻿<Properties StartupItem="Droid/CustomMapping.Droid.csproj">
   <MonoDevelop.Ide.Workbench ActiveDocument="packages/Xam.Plugin.Geolocator.3.0.4/readme.txt">
     <Files>
       <File FileName="CustomMapping/CustomView/CustomMap.cs" Line="33" Column="18" />
@@ -28,5 +28,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CustomMapping.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.4" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
