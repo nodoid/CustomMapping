@@ -38,7 +38,7 @@ namespace CustomMapping.Droid
             var id = UIFileUtils.GetResourceIdFromFilename("pin.png");
 
             markerWithIcon.SetPosition(new LatLng(formsMap.MapPinLocation.Latitude, formsMap.MapPinLocation.Longitude));
-            markerWithIcon.SetTitle("A blue pin";
+            markerWithIcon.SetTitle("A blue pin");
             markerWithIcon.SetSnippet(string.Empty);
 
             markerWithIcon.SetIcon(BitmapDescriptorFactory.FromResource(id));
